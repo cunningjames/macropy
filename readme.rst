@@ -7,6 +7,12 @@
 .. image:: https://travis-ci.org/azazel75/macropy.svg?branch=master
   :target: https://travis-ci.org/azazel75/macropy
 
+
+This is a fork of MacroPy that includes changes to support using macros
+from within Jupyter consoles and notebooks. See [this pull request]
+(https://github.com/azazel75/macropy/pull/20) by Juha Jeronen (user
+Technologicat).
+
 **MacroPy** is an implementation of `Syntactic Macros
 <http://tinyurl.com/cmlls8v>`_ in the `Python Programming Language
 <http://python.org/>`_. MacroPy provides a mechanism for user-defined
